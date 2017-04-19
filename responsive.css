@@ -1,0 +1,388 @@
+@media only screen and (max-width : 1028px) {
+		.hero {
+			height: auto;
+		}
+		.image, .portfolio-image {
+			width: 100%;
+			padding-bottom: 0;
+			margin-top: 20px;
+			margin-left: 0;
+
+		}
+		.portfolio-description {
+			text-align: center;
+			width: 100%;
+			padding-bottom: 20px;
+			margin-top: 0px;
+			margin-left: 0;
+			margin-top: -60px;
+		
+		}
+		
+		.image-description {
+			text-align: center;
+			padding-bottom: 20px;
+			margin-top: -60px;
+			width: 100%;
+		}
+		.work-content-top img, .work-content img {
+		padding-top: 0;
+	}
+}
+
+@media only screen and (max-width : 955px) {
+
+
+		.twelve, .eleven, .ten, .nine, .eight, .seven, .six, .five, .five-offset, .four, .three, .two, .one {
+			width: 100%;
+			text-align: center;
+			margin: 0;
+			padding: 0;
+		}
+		
+		.image, .portfolio-image {
+			width: 100%;
+			padding-bottom: 0;
+			margin-top: 20px;
+
+		}
+		.portfolio-description {
+			text-align: center;
+			width: 100%;
+			padding-bottom: 20px;
+			margin-top: 0px;
+			margin-left: 0;
+			margin-top: -60px;
+		}
+		
+		.image-description {
+			text-align: center;
+			padding-bottom: 20px;
+			margin-top: -60px;
+
+		}
+
+		footer .three {
+		width: 33%;
+		text-align: justify;
+
+	}
+		footer .mission {
+			width: 66.66%;
+			margin-top: 30px;
+			text-align: left;
+		}
+	 footer h1 {
+	 	font-size: 16px;
+	 	border-bottom: none;
+	 	margin-bottom: 0;
+	 	
+	}
+	footer p, footer li {
+		font-size: 14px;
+	}
+	footer .last {
+		padding-bottom: 30px;
+	}
+	footer {
+		height: 400px;
+	}
+	#contact-form {
+		max-width: 100%;
+	}
+	
+}
+@media only screen and (max-width : 768px) {
+	.hero {
+		height: auto;
+	}
+	.type-wrap {
+		font-size: 34px;
+	}
+	.tagline ul li {
+		font-size: 22px;
+	}
+	a.reverse-button, a.reverse-button-2  {
+		font-size: 15px;
+	}
+	.left.clever-box {
+		width: 100%;
+		margin: 0;
+		padding-bottom: 10px;
+		margin-bottom: 20px;
+	}
+	.clever-box {
+		width: 48%;
+		margin:0;
+	}
+	.middle {
+		margin-right: 4%;
+	}
+	
+	.button {
+		position: relative;
+	}
+	.rationale h1 {
+		padding-top: 5px;
+		padding-bottom: 10px;
+		font-size: 29px;
+	}
+	.icon {
+		height: 100px;
+		width: 100px;
+		padding-bottom: 0px;
+		padding-top: 10px;
+	}
+	.homepage {
+		padding-top: 20px;
+		padding-bottom: 0;
+	}
+	.image-description h1, .portfolio-description h1, .hire-background h1 {
+		font-size: 34px;
+	}
+	.hire-content {
+			text-align: center;
+			margin-left: 0;
+			padding-right: 0px;
+
+		}
+		.hire-icon, h2.left-content {
+			float: none;
+			padding: 0;
+		}
+		h2.left-content {
+			margin-top: 5px;
+		}
+		#contact-form {
+			text-align: left;
+		}
+			p.left-content {
+			width: 100%;
+			margin-top: 20px;
+			clear:none;
+			margin-left: 0;
+		
+		}
+	
+	
+	.banner {
+		height: 100px;
+	}
+	.hire-top-container, .hire-bottom-container {
+		width: 100%;
+	}
+	
+
+	.hire-bottom-container {
+		clear: both;
+
+	}
+	p.left-content {
+		text-align: center;
+	}
+	.hire-bottom-container p {
+		margin-bottom: 0;
+	}
+	.hire-left, .hire-right {
+		float: left;
+		width: 47%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.hire-right {
+		margin-left: 4%;
+	}
+	h2.left-content {
+		font-size: 22px;
+	}
+
+	.five-hire, .seven-hire {
+			width: 100%;
+			text-align: center;
+			margin: 0;
+			padding: 0;
+	}
+	nav {
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: #F5D76E;
+		background-image: url('images/stardust.png');
+
+	}
+	nav ul {
+		text-align: center;
+	}
+
+	.branding {
+		float: none;
+		margin-left: 0;
+		width:100%;
+	}
+	.logo-container {
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.circle, .name-container {
+		float: none;
+		margin-top: 0;
+	}
+	.name-container {
+		text-align: center;
+	}
+	.circle {
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	header {
+		height: 200px;
+		padding-top: 20px;
+	}
+	.banner h1 {
+		font-size: 40px;		
+		padding-top: 40px;
+	}
+	.vertical-center {
+		width: 80%;
+	}
+}
+
+@media only screen and (max-width : 600px) {
+	
+	.banner h1 {
+		padding-top: 40px;
+	}
+	.type-wrap {
+		font-size: 34px;
+	}
+	.tagline ul li {
+		font-size: 22px;
+	}
+	.banner h1 {
+		font-size: 29px;
+	}
+
+	.left.clever-box, .clever-box {
+		width: 100%;
+		margin: 0;
+		padding-bottom: 10px;
+		margin-bottom: 20px;
+	}
+	.clever-wrap {
+		margin-bottom: 0;
+	}
+	nav ul li {
+		padding-bottom: 10px;
+	}
+	
+	footer {
+		height: 600px;
+		padding: 50px 5% 0 5%;
+	}
+	footer .three {
+		width: 100%;
+		margin: 0;
+	}
+	footer h1, footer ul {
+		text-align: center;
+	}
+	footer h1 {
+		width: 30%;
+		margin-right: auto;
+		margin-left: auto;
+		padding-bottom: 10px;
+		margin-bottom:5px;
+	}
+
+	.bottom-panel h1, .quote-panel h1 {
+		font-size: 30px;
+	}
+	.bottom-panel h2, blockquote {
+		font-size: 20px;
+	}
+	blockquote:before, blockquote:after {
+		font-size: 75px;
+	}
+	
+}
+@media only screen and (max-width : 415px) {	
+
+	.banner h1 {
+		font-size: 25px;
+	}
+	
+	.image-description h1, .portfolio-description h1, .hire-background h1 {
+		font-size: 30px;
+	}
+	h2.left-content {
+		font-size: 22px;
+	}
+	.tagline ul li {
+	font-size: 18px;
+	line-height: 20px;
+	padding-bottom: 8px;
+}
+	.type-wrap { 
+		font-size: 28px;
+	}
+	.tagline li {
+		margin-bottom: 10px;
+	}
+	
+	a.reverse-button {
+		font-size: 14px;
+		padding: 10px;
+		line-height: 10px;
+	}
+	.logo {
+		font-size: 30px;
+	}
+	.title {
+		font-size: 18px;
+	}
+	nav li a {
+		font-size: 16px;
+	}
+	nav {
+		margin-top: 8px;
+	}
+	
+	.hire-left, .hire-right {
+		width: 100%;
+		text-align: center;
+	}
+	.hire-right {
+		margin-left: 0;
+	}
+	.hire-bottom-container p, .hire-top-container p {
+		margin-bottom: 40px;
+	}
+	.hire-bottom-container {
+		padding-top: 0;
+	}
+	p.left-content {
+		text-align: center;
+	}
+
+}
+@media only screen and (max-width : 380px) {
+	.header {
+		height: 330px;
+	}
+	.type-wrap {
+		font-size: 24px;
+	}
+	.tagline ul li {
+		font-size: 18px;
+	}
+	.banner h1 {
+		font-size: 23px;
+	}
+	a.reverse-button {
+		font-size: 12px;
+		padding: 8px;
+		line-height: 8px;
+	}
+}
